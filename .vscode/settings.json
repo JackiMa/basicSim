@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.mac": "shellscript",
+        "*.icc": "cpp",
+        "new": "cpp"
+    }
+}

@@ -1,0 +1,8 @@
+/home/wsl2/myG4Sim/basicSim/build/CMakeFiles/install/strip.dir
+/home/wsl2/myG4Sim/basicSim/build/CMakeFiles/install/local.dir
+/home/wsl2/myG4Sim/basicSim/build/CMakeFiles/install.dir
+/home/wsl2/myG4Sim/basicSim/build/CMakeFiles/list_install_components.dir
+/home/wsl2/myG4Sim/basicSim/build/CMakeFiles/rebuild_cache.dir
+/home/wsl2/myG4Sim/basicSim/build/CMakeFiles/edit_cache.dir
+/home/wsl2/myG4Sim/basicSim/build/CMakeFiles/B1.dir
+/home/wsl2/myG4Sim/basicSim/build/CMakeFiles/exampleB1.dir

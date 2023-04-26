@@ -1,0 +1,13 @@
+/run/numberOfThreads 8
+
+/run/initialize
+/control/verbose 1
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+
+/run/setCut 0.01 mm
+/gun/ion 27 60 # Co60 Z A
+#
+/run/beamOn 1000000
+
